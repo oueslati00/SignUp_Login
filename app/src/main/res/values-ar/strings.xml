@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SignUp_LoginV5</string>
+    <string name="cin_login">رقم بطاقة تعريف</string>
+    <string name="password_login">كلمة العبور</string>
+    <string name="forgetpassword">تغير كلمة العبور</string>
+    <string name="loginbutton">دخول</string>
+    <string name="register_login">تسجيل</string>
+    <string name="selectLanguage">"اختيار اللغة "</string>
+    <string name="user_name">الاسم</string>
+    <string name="confirm_password">تثبيت كلمة السر</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="email_registre">البريد الالكترونى</string>
+    <string name="valid_registre">"تسجيل "</string>
+    <string name="error_message">"لم يتم التسجيل "</string>
+
+</resources>

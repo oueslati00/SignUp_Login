@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SignUp_LoginV5</string>
+    <string name="password_login">mot de passe</string>
+    <string name="forgetpassword">reset password</string>
+    <string name="loginbutton">se connecter</string>
+    <string name="register_login">s\'inscrire</string>
+    <string name="selectLanguage">"chnager la langue "</string>
+    <string name="cin_login">cin</string>
+    <string name="user_name">nom prenom</string>
+    <string name="confirm_password">confirmez le mot de passe</string>
+    <string name="phone_number">numero de telephone</string>
+    <string name="email_registre">email</string>
+    <string name="valid_registre">registre</string>
+    <string name="error_message">message d\'erreur</string>
+</resources>

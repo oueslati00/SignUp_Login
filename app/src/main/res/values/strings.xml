@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- first login interface -->
+    <string name="app_name">SignUp_LoginV5</string>
+    <string name="cin_login">CIN</string>
+    <string name="password_login">password</string>
+    <string name="forgetpassword">change password</string>
+    <string name="loginbutton">login</string>
+    <string name="register_login">SignUp</string>
+    <string name="selectLanguage">Select Language</string>
+    <string name="user_name">username</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="phone_number">phone number</string>
+    <string name="email_registre">email</string>
+    <string name="valid_registre">registre</string>
+    <string name="error_message">error message</string>
+</resources>
